@@ -1,0 +1,18 @@
+.home {
+   text-align: center;
+padding-top: 20px;
+
+}
+
+.bigheader {
+    color: rgb(0, 255, 238);
+}
+
+.ptag {
+    color: blue;
+}
+
+.homeimage{
+    width: 400px;
+    height: 300px;
+}
