@@ -1,0 +1,25 @@
+
+.navbarlabel {
+    color: white;
+  
+  }
+  
+  .nav-link-item {
+    position: relative;
+    justify-content: space-around;
+    color: white;
+  
+    
+  }
+  
+  .navbar-toggler{
+    color: white;
+    border-color:white;
+    
+  
+  }
+  
+  .navbar-toggler-icon{
+    color: white;
+  }
+  
